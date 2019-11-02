@@ -1,5 +1,8 @@
-#logs
+#log's
 *.log
 
-#zips
+#zip's
 *.zip
+
+#exe's
+*.exe
