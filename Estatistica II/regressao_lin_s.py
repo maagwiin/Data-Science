@@ -1,4 +1,4 @@
-#regrecao linear simples
+#regressao linear simples
 
 import pandas as pd
 import numpy as np

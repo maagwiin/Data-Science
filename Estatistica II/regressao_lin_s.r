@@ -1,4 +1,4 @@
-#regrecao linear simples
+#regressao linear simples
 
 dim(cars)
 head(cars)

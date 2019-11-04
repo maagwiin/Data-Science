@@ -1,4 +1,4 @@
-#regrecao linear multipla
+#regressao linear multipla
 
 colnames(mtcars)
 dim(mtcars)
